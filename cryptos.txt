@@ -1,0 +1,5 @@
+El fichero cryptos.txt tendrá lo siguiente:
+	BTC
+	ETH
+	ADA
+	EGLD
